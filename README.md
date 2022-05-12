@@ -1,1 +1,1 @@
-# flexx_inventory
+# flexx-inventory
